@@ -23,7 +23,7 @@
   };
 
   // Please set default cities
-  exports.defaultCities = "london/sanfrancisco/";
+  exports.defaultCities = "tokyo/sanfrancisco/";
 
 })(this.Url = {})
 
