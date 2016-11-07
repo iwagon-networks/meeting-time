@@ -1,6 +1,6 @@
 describe("URL parsing", function() {
-  it("defaults to SanFrancisco and London", function() {
-    expect(Url.get()).toBe('london/sanfrancisco/');
+  it("defaults to SanFrancisco and Tokyo", function() {
+    expect(Url.get()).toBe('tokyo/sanfrancisco/');
   });
 
   it("allows allows you to add a city to the url", function() {
